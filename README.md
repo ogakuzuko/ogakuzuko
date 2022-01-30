@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ogakuzuko
+### Hi there 👋
+
 - 🐶 aiko is ikigai
 - 👩🏻‍💻 I’m interested in education and technology
-- 🌱 I’m currently learning React/Next.js and more ...
-- 🍅 I'm apple ...
+  - 🏕 In education, especially secondary education
+  - 🍪 In technology, especially React, Next.js, DDD, OOP and so on...
 
 <!--
 **ogakuzuko/ogakuzuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
