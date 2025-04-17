@@ -1,4 +1,4 @@
-🐶 aiko is ikigai 🐶
+🐶 aiko is ikigai
 
 <!--
 ### Hi there 👋
