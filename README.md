@@ -1,8 +1,8 @@
-### Hi there 👋
-
-- 🐶 aiko is ikigai
+🐶 aiko is ikigai 🐶
 
 <!--
+### Hi there 👋
+
 - 🐶 aiko is ikigai
 - 👩🏻‍💻 I’m interested in education and technology
   - 🏕 In education, especially secondary education
