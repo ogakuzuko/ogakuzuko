@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 - 🐶 aiko is ikigai
+
+<!--
+- 🐶 aiko is ikigai
 - 👩🏻‍💻 I’m interested in education and technology
   - 🏕 In education, especially secondary education
   - 🍪 In technology, especially React, Next.js, DDD, OOP and so on...
 
-<!--
 **ogakuzuko/ogakuzuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
